@@ -2,5 +2,5 @@
 Este es un nuevo proyecto de Ngine.digital.
 
 -----------------------------------------
-> Esto es un cambio dentro de nuevo-proyecto/README.md
+> Este texto no es igual en la rama "master" y en la rama "nueva-rama"
 -----------------------------------------
