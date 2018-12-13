@@ -2,7 +2,7 @@
 Este es un nuevo proyecto de Ngine.digital.
 
 -----------------------------------------
-> Este contenido no es igual en el Fork, posiblemente cause un Conflicto :(
+> Este texto solo esta disponible de momento dentro del proyecto original
 -----------------------------------------
 
 
