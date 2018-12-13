@@ -2,5 +2,6 @@
 Este es un nuevo proyecto de Ngine.digital.
 
 -----------------------------------------
-> Este texto no es igual en la rama "master" y en la rama "nueva-rama"
+> Este texto solo esta disponible de momento dentro del proyecto original
 -----------------------------------------
+ 
