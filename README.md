@@ -2,5 +2,9 @@
 Este es un nuevo proyecto de Ngine.digital.
 
 -----------------------------------------
-> Este texto no es igual en la rama "master" y en la rama "nueva-rama"
+> Este contenido no es igual en el Fork, posiblemente cause un Conflicto :(
 -----------------------------------------
+
+
+
+> Yo no causare conflicto al unir el Fork con el proyecto Original :D
